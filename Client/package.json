@@ -1,0 +1,14 @@
+{
+  "name": "hana-client",
+  "version": "1.0.0",
+  "description": "a sample hana client",
+  "main": "index.js",
+  "dependencies": {
+    "@sap/hana-client": "2.9.23"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Jacales",
+  "license": "ISC"
+}
